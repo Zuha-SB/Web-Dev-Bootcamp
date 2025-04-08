@@ -8,7 +8,7 @@ export default function Countdown() {
     setHasMounted(true);
 
     const calculateTimeLeft = () => {
-      const eventDate = new Date('2025-06-10T00:00:00');
+      const eventDate = new Date('2025-05-15T18:30:00');
       const now = new Date();
       const difference = eventDate - now;
       return {

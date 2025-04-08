@@ -6,7 +6,7 @@ export default function Schedule() {
           <div className="grid gap-6 md:grid-cols-2">
             <div>
               <h3 className="font-semibold mb-2">🗓️ Dates</h3>
-              <p>June 10 – August 5, 2025</p>
+              <p>May 15 - July 30, 2025</p>
             </div>
             <div>
               <h3 className="font-semibold mb-2">📍 Format</h3>
