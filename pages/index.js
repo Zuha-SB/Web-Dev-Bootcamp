@@ -13,6 +13,7 @@ export default function Home() {
       <Head>
         <title>Summer Web Dev Bootcamp 2025</title>
         <meta name="description" content="Join our immersive summer bootcamp to kickstart your career in web development." />
+        <meta name="viewport" content="width=device-width, initial-scale=1"></meta>
       </Head>
       <main className="bg-white text-gray-800">
         <Hero />
