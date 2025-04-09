@@ -5,6 +5,7 @@ import Schedule from '../components/Schedule'
 import Footer from '../components/Footer'
 import Countdown from '../components/Countdown'
 import RegistrationForm from '../components/RegistrationForm'
+import FAQ from '../components/FAQ'
 
 export default function Home() {
   return (
@@ -20,6 +21,7 @@ export default function Home() {
         <About />
         <Schedule />
         <RegistrationForm />
+        <FAQ />
         <Footer />
       </main>
     </>

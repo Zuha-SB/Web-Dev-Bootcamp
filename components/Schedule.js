@@ -10,15 +10,23 @@ export default function Schedule() {
             </div>
             <div>
               <h3 className="font-semibold mb-2">📍 Format</h3>
-              <p>Online, live sessions + on-demand access</p>
+              <p>Live, in person sessions at Masjid Al Salam</p>
+              <p>16700 Old Louetta Road, Spring, TX 77379</p>
             </div>
             <div>
               <h3 className="font-semibold mb-2">💡 Topics Covered</h3>
               <ul className="list-disc list-inside">
                 <li>HTML, CSS, JavaScript</li>
-                <li>Responsive Design</li>
                 <li>Git & GitHub</li>
                 <li>React & APIs</li>
+              </ul>
+            </div>
+            <div>
+              <h3 className="font-semibold mb-2">🕒 Class Schedule</h3>
+              <ul className="list-disc list-inside">
+                <li>Every Wednesday, 6:30 PM - 9 PM</li>
+                <li>Every Saturday, 9 AM - 1:30 PM</li>
+                <li>Additional help and study time offered on Mondays</li>
               </ul>
             </div>
           </div>

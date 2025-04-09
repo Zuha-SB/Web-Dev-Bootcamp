@@ -5,9 +5,8 @@ export default function About() {
         <p className="text-lg text-gray-700 text-center mb-8">Our intensive bootcamp is designed to take you from beginner to job-ready. Taught by experienced developers, with hands-on projects and mentorship.</p>
         <ul className="space-y-3 text-gray-700">
           <li>✅ Live, interactive sessions</li>
-          <li>✅ Build 5+ real-world projects</li>
-          <li>✅ Resume & interview coaching</li>
-          <li>✅ Lifetime access to recordings & materials</li>
+          <li>✅ Build real-world projects</li>
+          <li>✅ Add skills to your resume</li>
         </ul>
       </section>
     )
