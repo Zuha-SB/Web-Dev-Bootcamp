@@ -2,7 +2,6 @@ import Head from 'next/head'
 import Hero from '../components/Hero'
 import About from '../components/About'
 import Schedule from '../components/Schedule'
-import CTA from '../components/CTA'
 import Footer from '../components/Footer'
 import Countdown from '../components/Countdown'
 import RegistrationForm from '../components/RegistrationForm'
@@ -21,7 +20,6 @@ export default function Home() {
         <About />
         <Schedule />
         <RegistrationForm />
-        <CTA />
         <Footer />
       </main>
     </>
